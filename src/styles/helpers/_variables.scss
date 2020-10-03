@@ -1,0 +1,17 @@
+/** css vars **/
+
+:root {
+    --white: #FFFFFF;
+    --black: #000000;
+    --default-transition-speed: .175s;
+    --default-transition-timing-function: ease;
+}
+
+
+/** scss vars **/
+
+// --colors
+$white: var(--white);
+$black: var(--black);
+// --others
+$trans: var(--default-transition-speed) var(--default-transition-timing-function);
