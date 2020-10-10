@@ -13,3 +13,25 @@
 * 3.0 Команды для работы:
 * ```yarn run dev``` - запуск сервера для разработки проекта
 * ```yarn run build``` - собрать проект с оптимизацией без запуска сервера
+----------------------------------------------------------------------------------------------------
+* Файловая структура проекта:
+* starter
+* ├── dist
+* ├── gulp-tasks
+* ├── src
+* │   ├── blocks
+* │   ├── fonts
+* │   ├── img
+* │   ├── js
+* │   ├── styles
+* │   ├── views
+* │   └── .htaccess
+* ├── gulpfile.babel.js
+* ├── webpack.config.js
+* ├── package.json
+* ├── .babelrc.js
+* ├── .bemrc.js
+* ├── .eslintrc.json
+* ├── .stylelintrc
+* ├── .stylelintignore
+* └── .gitignore
